@@ -1,0 +1,26 @@
+{
+  "name": "component-helloworld",
+  "version": "0.0.1",
+  "description": "Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurinator/component-helloworld.git"
+  },
+  "keywords": [
+    "Component",
+    "Helloworld"
+  ],
+  "author": "Mauricio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maurinator/component-helloworld/issues"
+  },
+  "homepage": "https://github.com/maurinator/component-helloworld#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
+}
